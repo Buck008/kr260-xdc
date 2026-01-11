@@ -28,7 +28,7 @@
 | pmod3_pin3 | som240_2_d45 | AF12 | 
 | pmod3_pin4 | som240_2_d50 | AG11 | 
 | pmod3_pin5 | som240_2_d46 | AG10 | 
-| pmod3_pin6 | som240_2_c46 | AG12 | 
+| pmod3_pin6 | som240_2_c46 | AH12 | 
 | pmod3_pin7 | som240_2_d48 | AH10 | 
 | pmod3_pin8 | som240_2_c47 | AH11 | 
 
